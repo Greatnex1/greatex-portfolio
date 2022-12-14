@@ -15,12 +15,9 @@ const About = () => {
             <p className="text-xl mt-20">
             I am a life long learning , determined and passion-driven Software Engineer. 
             I have special interest in back-end program development using Java and Javascript.
-             Experienced in designing interfaces,developing, testing and debugging codes. A
-             t the moment i am building projects with Nodejs, Springboot and React
+             Experienced in designing interfaces,developing, testing and debugging codes. At the moment i am building projects with Nodejs, Springboot and React
                   
             </p>
-
-
         </div>
     </div>
   )
