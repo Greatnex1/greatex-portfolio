@@ -1,5 +1,5 @@
 import React from "react"
-import Image from "../assert/portfolio/laptop.jpg"
+import Image from "../assert/portfolio/my_reflection.jpeg"
 import {MdOutlineKeyboardArrowRight} from "react-icons/md"
 import { Link } from 'react-scroll'
         
