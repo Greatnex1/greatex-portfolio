@@ -19,7 +19,7 @@ const Home = () => {
             <p className="text-gray-500 py-4 max-w-md">
                 I have 2 years of experience building and designing software,
                 Currently, I love to work on web application using technologies like,
-                Java, Javascript, SpringBoot, Nodejs and Postgresql.
+                Java, Javascript, SpringBoot, Nodejs,React and Postgresql.
 
             </p>
 
