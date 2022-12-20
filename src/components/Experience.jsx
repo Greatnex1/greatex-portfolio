@@ -21,6 +21,8 @@ import python from '../assert/python.jpeg';
 import spring from '../assert/spring1.png';
 import typescript from '../assert/typsrcpt.png';
 import tailwind from '../assert/tailwind.png';
+import html from  '../assert/html.png';
+import css from '../assert/css.png';
 const Experience = () => {
 
     const techs = [
@@ -153,6 +155,18 @@ const Experience = () => {
             title: "TAILWIND",
             style: "shadow-sky-400"
         },
+        {
+            id: 20,
+            src:html,
+            title: "HTML",
+            style: "shadow-sky-400"
+        },
+        {
+            id: 21,
+            src:css,
+            title: "CSS",
+            style: "shadow-sky-400"
+        }
     ]
 
   return (
