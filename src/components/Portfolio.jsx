@@ -21,9 +21,6 @@ const Portfolio = () => {
             title: "a school management program",
             href: "https://github.com/Greatnex1/earlybright"
         },
-
-   
-
         {
             id:3,
             src: elibmanagement,

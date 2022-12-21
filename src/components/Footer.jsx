@@ -28,7 +28,7 @@ const Footer = () => {
                     Home
                     <span className="group-hover:up duration-300">
                     <BsFileArrowUpFill size={25} 
-                    className="ml-1  animate-bounce w-6 h-6"/>
+                    className="ml-1 animate-bounce w-6 h-6"/>
                     </span>
                 </Link>
         </div>
@@ -37,7 +37,7 @@ const Footer = () => {
             
                <p className="text-white w-fit px-6 py-10 mt-10 flex items-center"> 
                <div>
-                  <h1 className='text-5xl font-signature ml-2 pr-3'>Nouah</h1>
+                  <h1 className='text-5xl font-signature ml-2 pr-2'>Nouah</h1>
                 </div>
                <span className="pr-2">
                     <AiFillCopyrightCircle size={25} 
