@@ -180,13 +180,13 @@ const Experience = () => {
                 </p>
             </div>
 
-            <div className="w-full grid grid-cols-4 sm;grid-cols-5 gap-8 text-center py-8
+            <div className="w-full grid grid-cols-4 sm;grid-cols-6 gap-8 text-center py-8
             px-2 sm:px-0">
 
                 {techs.map(({id, src, title, style}) =>(
                      <div key={id} 
                      className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
-                     <img src={src} alt="" className="w-20 mx-auto"/>
+                     <img src={src} alt="" className="w-10 mx-auto"/>
                      <p className="mt-4">{title}</p>
                  </div>
 
