@@ -12,13 +12,14 @@ const Portfolio = () => {
             id:1,
             src: ecommerce,
             title:"an online shopping program",
-            href: "https://github.com/"
+            href: "https://github.com/Greatnex1/mini-ecommerce"
         },
 
         {
             id:2,
             src:ssm,
-            title: "a school management program"
+            title: "a school management program",
+            href: "https://github.com/Greatnex1/earlybright"
         },
 
    
