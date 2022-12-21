@@ -13,7 +13,7 @@ const About = () => {
                 </p>
             </div>
             <p className="text-xl mt-20">
-            I am a life long learning , determined and passion-driven Software Engineer. 
+            I am a life long learning , determined and passion-driven Software Engineer, building Tech Communities around Tech Products and increasing engagement through user adoption by working closely with the Marketing, Product, and Engineering Team to come up with a clear-cut strategy to level-up  user onboarding.
             I have special interest in back-end program development using Java and Javascript.
              Experienced in designing interfaces,developing, testing and debugging codes. At the moment i am building projects with Nodejs, Springboot and React
                   
