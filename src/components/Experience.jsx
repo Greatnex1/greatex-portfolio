@@ -160,13 +160,8 @@ const Experience = () => {
             src:html,
             title: "HTML",
             style: "shadow-sky-400"
-        },
-        {
-            id: 21,
-            src:css,
-            title: "CSS",
-            style: "shadow-sky-400"
         }
+       
     ]
 
   return (
