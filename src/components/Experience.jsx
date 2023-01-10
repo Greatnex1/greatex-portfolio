@@ -23,7 +23,7 @@ import typescript from '../assert/typsrcpt.png';
 import tailwind from '../assert/tailwind.png';
 import html from  '../assert/html.png';
 import css from '../assert/css.png';
-import jest from '../assert/jest.png';
+import jestImg from '../assert/jest.png';
 const Experience = () => {
 
     const techs = [
@@ -158,7 +158,7 @@ const Experience = () => {
         },
         {
             id: 20,
-            src:jest,
+            src:jestImg,
             title: "JEST",
             style: "shadow-sky-400"
         }
