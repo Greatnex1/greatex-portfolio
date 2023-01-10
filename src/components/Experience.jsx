@@ -158,12 +158,6 @@ const Experience = () => {
         },
         {
             id: 20,
-            src:html,
-            title: "HTML",
-            style: "shadow-sky-400"
-        },
-        {
-            id: 21,
             src:jest,
             title: "JEST",
             style: "shadow-sky-400"
