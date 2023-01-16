@@ -17,8 +17,8 @@ const Home = () => {
                 I'm a Back-End Developer
             </h2>
             <p className="text-gray-500 py-4 max-w-md">
-                I have 2 years of experience building and designing software,
-                Currently, I love to work on web application using technologies like,
+                I have over a year of experience as a junior software engineer in building and designing software with Semicolon Africa, In my short time there
+               i have contributed to projects and assisted with managing for one of the first-time long client.  Currently, I love to work on web application using technologies like,
                 Java, Javascript, SpringBoot, Nodejs,React and Postgresql.
 
             </p>
@@ -46,6 +46,7 @@ const Home = () => {
         </div>
      </div>
     </div>
+    // I've worked in software engineering for my entire 15-year career, and my commitment to critical thinking and attention to detail have gotten me to where I am today: a senior software engineer for First Technology. I have a passion for processes, and I'm an experienced team leader who typically manages 10 developers at any given time.
   )
 }
 
