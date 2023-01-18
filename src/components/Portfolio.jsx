@@ -1,6 +1,6 @@
 import React from 'react'
 
-import elibmanagement from "../assert/portfolio/e-libmanagement.jpeg";
+import banksystem from "../assert/portfolio/banksy.jpeg";
 import ecommerce from "../assert/portfolio/ecommerce.jpeg";
 import ssm from "../assert/portfolio/ssm.jpeg";
 
@@ -23,8 +23,8 @@ const Portfolio = () => {
         },
         {
             id:3,
-            src: elibmanagement,
-            title: "an online  book store program"
+            src: banksystem,
+            title: "a bank app"
         }
     ]
 
