@@ -24,7 +24,8 @@ const Portfolio = () => {
         {
             id:3,
             src: banksystem,
-            title: "a bank app"
+            title: "a bank app",
+            href:"https://github.com/Greatnex1/fortunebank.git"
         }
     ]
 
