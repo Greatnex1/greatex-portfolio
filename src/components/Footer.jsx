@@ -43,7 +43,7 @@ const Footer = () => {
                     <AiFillCopyrightCircle size={25} 
                     className="ml-1"/>
                     </span>
-                2022 All Right Reserved</p>
+                2023 All Right Reserved</p>
                
         </div>
 
