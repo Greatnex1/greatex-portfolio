@@ -30,136 +30,136 @@ const Experience = () => {
         {
             id: 1,
             src: java,
-            title: "JAVA",
+            title: "",
             style: "shadow-orange-500"
         },
 
         {
             id: 2,
             src: spring,
-            title: "SPRINGBOOT",
+            title: "",
             style: "shadow-green-500"
         },
 
         {
             id: 3,
             src: javascript,
-            title: "JAVASCRIPT",
+            title: "",
             style: "shadow-yellow-500"
         },
 
         {
             id: 4,
             src: reactImage,
-            title: "REACT",
+            title: "",
             style: "shadow-blue-600"
         },
 
         {
             id: 5,
             src: nextjs,
-            title: "NEXTJS",
+            title: "",
             style: "shadow-white"
         },
 
         {
             id: 6,
             src: aws,
-            title: "AWS",
+            title: "",
             style: "shadow-gray-400"
         },
 
         {
             id: 7,
             src: github,
-            title: "GITHUB",
+            title: "",
             style: "shadow-blue-500"
         },
 
         {
             id: 8,
             src: postman,
-            title: "POSTMAN",
+            title: "",
             style: "shadow-orange-400"
         },
 
         {
             id: 9,
             src: cloudinary,
-            title: "CLOUDINARY",
+            title: "",
             style: "shadow-sky-400"
         },
 
         {
             id: 10,
             src: postgresql,
-            title: "POSTGRESQL",
+            title: "",
             style: "shadow-sky-400"
         },
 
         {
             id: 11,
             src: docker,
-            title: "DOCKER",
+            title: "",
             style: "shadow-sky-400"
         },
 
         {
             id: 12,
             src: node,
-            title: "NODEJS",
+            title: "",
             style: "shadow-green-400"
         },
 
         {
             id: 13,
             src: vercel,
-            title: "VERCEL",
+            title: "",
             style: "shadow-sky-400"
         },
 
         {
             id: 14,
             src: express,
-            title: "EXPRESSJS",
+            title: "",
             style: "shadow-sky-400"
         },
 
         {
             id: 15,
             src:mongo ,
-            title: "MONGODB",
+            title: "",
             style: "shadow-green-400"
         },
         {
             id: 16,
             src: dsa,
-            title: "DATA STRUCTURES & ALGORITHM",
+            title: "",
             style: "shadow-gray-400"
         }
         ,
         {
             id: 17,
             src: typescript,
-            title: "TYPESCRIPT",
+            title: "",
             style: "shadow-sky-400"
         },
         {
             id: 18,
             src:go,
-            title: "GO",
+            title: "",
             style: "shadow-sky-400"
         },
         {
             id: 19,
             src:tailwind,
-            title: "TAILWIND",
+            title: "",
             style: "shadow-sky-400"
         },
         {
             id: 20,
             src:jestImg,
-            title: "JEST",
+            title: " ",
             style: "shadow-sky-400"
         }
        
